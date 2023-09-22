@@ -1,3 +1,5 @@
+19.5.2021*
+
 My first attempt on creating a video game
 It is inspired by old-school text based adventure games such as Zork or Adventure.
 All code is written in pure C.
@@ -17,3 +19,5 @@ take / grab / get     - Take something from the room you are in to your inventor
 drop / put            - Put something to the room you are in from yout inventory
 read                  - Read an item
 inventory             - Shows the inventory
+
+* - Last change to the code
