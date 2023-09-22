@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619516304 source:c:\users\arnol\documents\c exercises\adventure_test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621426338 source:e:\adventure_test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623256309 source:c:\users\arnol\documents\codes\c\adventure_test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
