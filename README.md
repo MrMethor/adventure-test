@@ -1,20 +1,23 @@
-19.5.2021*
+Created:      19.8.2020
+Last change:  20.5.2021
 
-My first attempt on creating a video game
+My first attempt at creating a video game.
 It is inspired by old-school text based adventure games such as Zork or Adventure.
-All code is written in pure C.
-It's something made without any exerience in programming, so don't judge it too harsly.
+All code is written in C.
 
-(commands aren't case sensitive)
+It's something made with very little exerience in programming and is more of a curiosity than an actual project.
+
+
 Available commands:
-North
-South
-West
-East                  - Movement
-Nortwest
-Northeast
-Southwest
-Southeast 
+
+North                \
+South                 \
+West                   \
+East                    - Movement
+Nortwest               /
+Northeast             /
+Southwest            /
+Southeast           /
 take / grab / get     - Take something from the room you are in to your inventory
 drop / put            - Put something to the room you are in from yout inventory
 read                  - Read an item
