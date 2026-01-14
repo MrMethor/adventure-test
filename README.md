@@ -4,7 +4,7 @@ Last change:  20.5.2021
 A basic text-based adventure test.
 Based on old-school text based adventure games such as Zork or Adventure.
 
-It's more of a curiosity.
+It's more of a historic curiosity.
 
 Controls:
 
